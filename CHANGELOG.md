@@ -13,9 +13,8 @@ e este projeto adere ao [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
 - CHANGELOG para rastreamento das mudanças
 - AGENTS.md com guia de convenções do repositório
 - `.gitignore` ignorando AGENTS.md do versionamento
-
-### Adicionado
-- README: seção de Branches com estratégia Git Flow
+- README: seção de Branches baseada nas branches reais de cada sub-repo
 
 ### Alterado
 - Licença e README: `MIT © 2026 Senac Systems Dev`
+- README: seção de Branches corrigida com dados reais dos repositórios

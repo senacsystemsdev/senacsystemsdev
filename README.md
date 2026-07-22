@@ -38,14 +38,10 @@ Plataforma robusta de gestão de estoque e controle para pequenos comércios e e
 
 ## Branches
 
-Estratégia baseada em [Git Flow](https://www.atlassian.com/br/git/tutorials/comparing-workflows/gitflow-workflow):
-
-| Branch | Propósito |
-|--------|-----------|
-| `main` | Produção — código estável e publicado |
-| `develop` | Desenvolvimento — integração de funcionalidades |
-| `feature/*` | Novas funcionalidades (baseada em `develop`) |
-| `hotfix/*` | Correções urgentes (baseada em `main`) |
+| Projeto | Branches |
+|---------|----------|
+| **UC11** | `main` |
+| **Nozesfy** | `main`, `sqlite` |
 
 ## Licença
 
