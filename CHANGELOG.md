@@ -11,3 +11,5 @@ e este projeto adere ao [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
 - README com descrição dos projetos UC11 e Nozesfy e membros da equipe
 - Licença MIT
 - CHANGELOG para rastreamento das mudanças
+- AGENTS.md com guia de convenções do repositório
+- `.gitignore` ignorando AGENTS.md do versionamento
