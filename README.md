@@ -38,4 +38,4 @@ Plataforma robusta de gestão de estoque e controle para pequenos comércios e e
 
 ## Licença
 
-MIT &copy; 2026 Senac Lab
+MIT &copy; 2026 Senac Systems Dev

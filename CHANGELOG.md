@@ -13,3 +13,6 @@ e este projeto adere ao [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
 - CHANGELOG para rastreamento das mudanças
 - AGENTS.md com guia de convenções do repositório
 - `.gitignore` ignorando AGENTS.md do versionamento
+
+### Alterado
+- Licença e README: `MIT © 2026 Senac Systems Dev`
