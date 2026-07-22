@@ -36,6 +36,17 @@ Plataforma robusta de gestão de estoque e controle para pequenos comércios e e
 | Luciana | — | Gestão de Documentação |
 | Arthur | — | Design |
 
+## Branches
+
+Estratégia baseada em [Git Flow](https://www.atlassian.com/br/git/tutorials/comparing-workflows/gitflow-workflow):
+
+| Branch | Propósito |
+|--------|-----------|
+| `main` | Produção — código estável e publicado |
+| `develop` | Desenvolvimento — integração de funcionalidades |
+| `feature/*` | Novas funcionalidades (baseada em `develop`) |
+| `hotfix/*` | Correções urgentes (baseada em `main`) |
+
 ## Licença
 
 MIT &copy; 2026 Senac Systems Dev
